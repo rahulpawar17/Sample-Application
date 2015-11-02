@@ -1,3 +1,3 @@
 <?php
-	echo 'Test File Is Created123';
+	echo 'Test File Is Created';
 ?>
