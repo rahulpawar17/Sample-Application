@@ -1,3 +1,6 @@
 <?php
-	echo "Gaurav created test.php file";
+ echo 'Narayan created test.php file';
+ echo 'Hello';
+ echo 'Welcome';
+ echo "*";
 ?>
